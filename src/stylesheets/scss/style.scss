@@ -1,0 +1,38 @@
+@import "themeColors";
+
+@mixin center{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+*{
+    border-radius: 10px;
+}
+body{
+    min-height: 100vh;
+    background-color: $celadon-blue2-color;
+    color: $light-text-color;
+}
+.containerBanner {
+    display: grid;
+    @include center;
+    background-color: $primary-color-trans2 !important;
+    position: relative;
+    height: 50vh;
+    margin: auto;
+}
+.containerBanner::before{
+    content:  "";
+    background: url("https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80") no-repeat
+    center center/cover;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+    z-index: -1;    
+}
+@import "header";
+@import "video"; 
+@import "displayBar";
