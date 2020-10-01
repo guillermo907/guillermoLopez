@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http//:guillermo907.github.io/guillermoLopez/static/css/main.11f1d7d3.chunk.css",
+    "main.js": "/http//:guillermo907.github.io/guillermoLopez/static/js/main.56f113b9.chunk.js",
+    "main.js.map": "/http//:guillermo907.github.io/guillermoLopez/static/js/main.56f113b9.chunk.js.map",
+    "runtime-main.js": "/http//:guillermo907.github.io/guillermoLopez/static/js/runtime-main.31538d6e.js",
+    "runtime-main.js.map": "/http//:guillermo907.github.io/guillermoLopez/static/js/runtime-main.31538d6e.js.map",
+    "static/js/2.9bc6f082.chunk.js": "/http//:guillermo907.github.io/guillermoLopez/static/js/2.9bc6f082.chunk.js",
+    "static/js/2.9bc6f082.chunk.js.map": "/http//:guillermo907.github.io/guillermoLopez/static/js/2.9bc6f082.chunk.js.map",
+    "index.html": "/http//:guillermo907.github.io/guillermoLopez/index.html",
+    "precache-manifest.a2ab95114c9e169e27d7bd58d9be10b0.js": "/http//:guillermo907.github.io/guillermoLopez/precache-manifest.a2ab95114c9e169e27d7bd58d9be10b0.js",
+    "service-worker.js": "/http//:guillermo907.github.io/guillermoLopez/service-worker.js",
+    "static/css/main.11f1d7d3.chunk.css.map": "/http//:guillermo907.github.io/guillermoLopez/static/css/main.11f1d7d3.chunk.css.map",
+    "static/js/2.9bc6f082.chunk.js.LICENSE.txt": "/http//:guillermo907.github.io/guillermoLopez/static/js/2.9bc6f082.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31538d6e.js",
+    "static/js/2.9bc6f082.chunk.js",
+    "static/css/main.11f1d7d3.chunk.css",
+    "static/js/main.56f113b9.chunk.js"
+  ]
+}
