@@ -4,7 +4,7 @@ import video from '../stylesheets/css/video.css';
 const Video = () =>{
 
     return(
-        <div className="videoContainer">
+        <div className="container videoContainer">
             <div className="videoInnerContainer">
                 <video autoPlay muted loop id="video">
                     <source src="https://sitiopruebavero.000webhostapp.com/downloads/Fender%20CP50s%20-%20Cm%20Jam..mp4" type="video/mp4"/>

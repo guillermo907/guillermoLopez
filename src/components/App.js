@@ -13,6 +13,7 @@ const App = () =>{
             <Header />
             <Video />
             <DisplayBar />
+            <Banner />
             <Footer /> 
         </div>
     );
