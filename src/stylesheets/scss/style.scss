@@ -5,10 +5,9 @@
     justify-content: center;
     text-align: center;
 }
-
-.mainContainer{
-    padding:0px !important;
-    margin: 0px !important;
+.ui.fluid.container{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
 }
 body{
     min-height: 100vh;
@@ -38,3 +37,5 @@ body{
 @import "header";
 @import "video"; 
 @import "displayBar";
+@import "footer";
+
