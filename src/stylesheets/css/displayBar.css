@@ -1,1 +1,1 @@
-.displayBarContainer{width:100%;height:100%;background-color:#1d3557;margin-top:10px !important;margin-bottom:10px !important}.displayBarContainer div{background-color:rgba(255,255,255,0.206);margin:10px !important}
+.displayBarContainer{width:100%;height:100%;background-color:#1d3557;margin:0 !important;padding:10px}.displayBarContainer .item{margin:10px !important;padding:10px !important;border-radius:5px}.displayBarContainer .item h1{text-align:center}

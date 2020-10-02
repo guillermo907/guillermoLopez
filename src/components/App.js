@@ -9,7 +9,7 @@ import style from '../stylesheets/css/style.css';
 const App = () =>{
 
     return (
-        <div className="ui fluid container">
+        <div className="ui fluid container mainContainer">
             <Header />
             <Video />
             <DisplayBar />

@@ -10,18 +10,16 @@
     // align-items: center !important;
     // align-self: center !important;
     // justify-content: space-around !important;
-    margin-top: 10px !important;
-    margin-bottom: 10px !important;
+    margin: 0 !important;
+    padding: 10px;
 
-    div{
-        // display: flex !important;
-        // flex-direction: column;
-        background-color: rgba(255, 255, 255, 0.206); 
-        // height: 100% !important;
-        // width: 100% !important;
-         margin: 10px !important;
-        // padding: 30px;
-        // justify-content: center;
-        // align-items: center;
+    .item{
+        // background-color: $celadon-blue-color; 
+        margin: 10px !important;
+        padding: 10px !important;
+        border-radius: 5px;
+        h1{
+            text-align: center;
+        }
     }
 }   
